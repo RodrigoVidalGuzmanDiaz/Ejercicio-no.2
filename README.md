@@ -2,4 +2,4 @@
 ## Decripción
 Ejercicio realizado con el lenguaje HTML y CSS
 
- │WEb │ https://rodrigovidalguzmandiaz.github.io/Ejercicio-no.2/│
+ │Web │ https://rodrigovidalguzmandiaz.github.io/Ejercicio-no.2/│
