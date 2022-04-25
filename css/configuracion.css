@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+html{
+    /*Tamaño de fuente general*/
+    font-size: 10px;
+    /*Tipografia General*/
+    font-family: 'Roboto', sans-serif;
+}
+
+:root{
+
+    /*Color Palette*/
+    --colorTextoClaro: rgba(60, 60, 67, 0.6);
+    --colorBlack: #000000;
+    --textoInstructivo: #3C3C43;
+    --colorBackground: #F2F2F7;
+    --colorBlue: #007AFF;
+
+
+    /*General Size*/
+    --size17: 17px;
+    --seze15: 15px;
+}
+

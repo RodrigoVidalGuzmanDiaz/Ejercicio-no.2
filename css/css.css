@@ -1,0 +1,98 @@
+.all{
+    /*margin: auto;
+    width: 30rem;*/
+    height: 40rem;
+
+    background-size: cover;
+    background-image: url(https://raw.githubusercontent.com/jefuentes80/ejercicio-2-PCD/main/ZxAHqBw.png);
+
+    
+    width: auto;
+    height: 74rem;
+
+    border: 0.1rem solid black;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.cerrar p{
+    color: var(--colorTextoClaro);
+    margin-left: 1rem;
+    font-size: 2rem;
+
+}
+.textos{
+    
+    margin: 3rem 0 0 1.7rem;
+}
+
+.textos .textoP{
+    font-size: 3rem;
+}
+.textos .textoG{
+    font-size: 4rem;
+    margin-bottom: 5rem;
+}
+
+
+
+.formulario{
+    margin: 6rem 0 0 2rem;
+}
+.fondo-avion{
+    background-size: cover;
+    background-image: url(https://raw.githubusercontent.com/jefuentes80/ejercicio-2-PCD/main/ZxAHqBw.png);
+    background-color: aqua;
+    
+    width: auto;
+    height: auto;
+
+}
+.instructivo{
+    color: var(--textoInstructivo);
+    font-size: var(--size17);
+}
+.formulario input{
+    margin-top: 1rem;
+    font-size: var(--size17);
+
+    width: 37rem;
+    height: 4.5rem;
+
+    padding-left: 1rem;
+    border-radius: 0.5rem;
+
+
+    color: var(--textoInstructivo);
+    border: none;
+    background-color: var(--colorBackground);
+
+
+}
+.formulario button{
+    margin-top: 1rem;
+    border: none;
+
+    width: 37rem;
+    height: 4.5rem;
+
+
+    background-color: var(--colorBlue);
+    border-radius: 0.5rem;
+    color: #fff;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.formulario button img{
+   
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 0.5rem;
+}
