@@ -4,4 +4,4 @@
 
 Ejerccio realizado con los lenguajes de HTML y CSS
 
-| WEB: https://rodrigovidalguzmandiaz.github.io/Ejercicio-no.2/|
+https://rodrigovidalguzmandiaz.github.io/Ejercicio-no.2/
