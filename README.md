@@ -1,5 +1,7 @@
 # APP de agencia de viajes
-## Decripción
-Ejercicio realizado con el lenguaje HTML y CSS
 
- │Web │ https://rodrigovidalguzmandiaz.github.io/Ejercicio-no.2/│
+## Descripción
+
+Ejerccio realizado con los lenguajes de HTML y CSS
+
+| WEB: https://jefuentes80.github.io/Ejercicio2/ |
