@@ -1,5 +1,4 @@
-# Ejercicio-no.2
-
+# APP de agencia de viajes
 ## Decripción
 Ejercicio realizado con el lenguaje HTML y CSS
 
